@@ -1,4 +1,6 @@
 # Edge Net
 
-
-* 1
+* Data preparation
+* Structure of the network  
+* Training process
+* Demo
